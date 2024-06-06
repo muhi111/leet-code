@@ -7,8 +7,6 @@
 // @lc code=start
 
 // stackを実装する
-package main
-
 type Stack []string
 
 func (s *Stack) Push(str string) {
