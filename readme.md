@@ -6,7 +6,7 @@
 |-----|------|
 |Arrays & Hashing|✅|
 |Pointers||
-|Stack|4/7|
+|Stack|5/7|
 |Binary Search||
 |Sliding Window||
 |Linked List||
