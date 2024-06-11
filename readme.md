@@ -1,4 +1,4 @@
-[NeetCodeのLeetCodeアルゴリズム学習ロードマップ](https://neetcode.io/roadmap)に従って勉強しているもの
+[NeetCodeのLeetCodeアルゴリズム学習ロードマップ](https://neetcode.io/roadmap)に従って勉強しているもの(easyとmediumのみ)
 
 # 進捗
 
@@ -6,7 +6,7 @@
 |-----|------|
 |Arrays & Hashing|✅|
 |Pointers||
-|Stack|5/7|
+|Stack|✅|
 |Binary Search||
 |Sliding Window||
 |Linked List||
