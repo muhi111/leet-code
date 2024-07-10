@@ -5,7 +5,7 @@
 |topic|status|
 |-----|------|
 |Arrays & Hashing|✅|
-|Two Pointers|2/4|
+|Two Pointers|3/4|
 |Stack|✅|
 |Binary Search||
 |Sliding Window||
